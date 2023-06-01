@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrohim Mahmud Hanafi!</h1>
+<h1 align="center">Hi 👋, I'm Ibrohim Hanafi!</h1>
 
 <p align="center">a Self-Taught Developer, especially on Frontend Dev, Tech Researcher & Lifelong Learner.</p>
 
@@ -54,6 +54,7 @@
 
 ### 🦾 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 ![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix&logoColor=white)
 ![Sanity](https://img.shields.io/badge/-Sanity-05122A?style=flat&logo=sanity-cms&logoColor=white)
