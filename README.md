@@ -14,8 +14,8 @@
 </p>
 
 <h2 align="center">⏳ Currently</h2>
-<p align="center">Work at <a href="https://wismahuffazhulquran.com" target="_blank">Wisma Huffazhul Quran</a></p>
-<p align="center">Exploring new technologies (Researcher), Fullstacks Developer, Product Designer, Social Media Analyst</p>
+<p align="center">Work at <a href="https://arridha-klaten.com" target="_blank">Ma'had Ar-Ridha Klaten</a></p>
+<p align="center">Exploring new technologies (Researcher), Fullstacks Developer, Product Designer, Social Media Strategist</p>
 
 <h3 align="center">🔥 Streak Stats</h3>
 <br>
